@@ -1,5 +1,5 @@
 # Blazor component
-> Author: ParrotLun [LinkedLIn](www.linkedin.com/in/parrotlun)
+> Editor: ParrotLun [LinkedLIn](www.linkedin.com/in/parrotlun)
 
 ## Some comparison
 
